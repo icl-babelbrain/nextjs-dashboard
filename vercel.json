@@ -1,0 +1,4 @@
+{
+    "buildCommand": "npm run postinstall && next build",
+    "installCommand": "npm install"
+}
